@@ -10,8 +10,8 @@ git clone https://github.com/cenxky/weui-picker
 ```
 
 ### Usage
-weui picker/datePicker is as same as picker in wechat mini-apps([微信小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/component/picker.html)), it's beautiful and easy to use.
-Please use the `/flexible` version if your project use flexible.js([阿里高清方案](https://www.jianshu.com/p/985d26b40199)), it uses `rem`, not `px`.
+weui picker/datePicker is as same as picker in wechat mini-apps([微信小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/component/picker.html)), it's beautiful and as well as usable.
+Please use the `/flexible` version if your project set up with flexible.js([阿里高清方案](https://www.jianshu.com/p/985d26b40199)), the css uses `rem`, instead of `px`.
 
 #### global
 
