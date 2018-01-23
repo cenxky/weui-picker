@@ -1,7 +1,7 @@
 ## weui-picker
 
 [weui](https://github.com/Tencent/weui) picker/datePicker stand-alone version, also supports flexible.js.
-You can view **picker/datePicker** in the [demo](https://weui.io/weui.js/).
+You can view **picker/datePicker** in this [demo](https://weui.io/weui.js/).
 
 ### Install
 
@@ -10,7 +10,7 @@ git clone https://github.com/cenxky/weui-picker
 ```
 
 ### Usage
-weui picker/datePicker is as same as picker in wechat mini-apps([微信小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/component/picker.html)), it's beautiful and as well as usable.
+weui picker/datePicker is as same as picker in wechat mini-apps([微信小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/component/picker.html)), it's beautiful and usable.
 Please use the `/flexible` version if your project set up with flexible.js([阿里高清方案](https://www.jianshu.com/p/985d26b40199)), the css uses `rem`, instead of `px`.
 
 #### global
